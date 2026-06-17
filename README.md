@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 사용자 중심의 경험을 만드는 것을 목표로 합니다.
 - 기능뿐만 아니라 사용성과 디자인의 완성도를 중요하게 생각합니다.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -22,15 +22,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-HTML5 • CSS3 • JavaScript • TypeScript • React • React Native • jQuery
-
 ### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
-
-Node.js • Express.js • Python
 
 ### Database
 
@@ -38,19 +34,15 @@ Node.js • Express.js • Python
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
 </p>
 
-PostgreSQL • Oracle Database • MongoDB • Supabase
-
 ### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
-Git • GitHub • VS Code • Visual Studio 2022 • DBeaver • HeidiSQL
-
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
