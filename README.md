@@ -16,20 +16,36 @@
 
 ## 🚀 Tech Stack
 
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactivex,nodejs,express,python,postgres,mongodb,supabase,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
-### Frontend
 HTML5 • CSS3 • JavaScript • TypeScript • React • React Native • jQuery
 
 ### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
+
 Node.js • Express.js • Python
 
 ### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" />
+</p>
+
 PostgreSQL • Oracle Database • MongoDB • Supabase
 
 ### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
 Git • GitHub • VS Code • Visual Studio 2022 • DBeaver • HeidiSQL
 
 ---
