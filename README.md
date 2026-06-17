@@ -1,9 +1,3 @@
-<div>
-
-# 🐸 개구리
-
-</div>
-
 ## Tech Stack
 
 ### Frontend
