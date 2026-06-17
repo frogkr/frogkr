@@ -51,9 +51,3 @@
 Artificial Intelligence (AI) • TensorFlow • Machine Learning • Deep Learning
 
 ---
-
-<div align="center">
-
-**frogkr**
-
-</div>
