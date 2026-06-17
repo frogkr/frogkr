@@ -3,7 +3,7 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
 </p>
 
 ### Backend
@@ -32,6 +32,4 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-Artificial Intelligence (AI) • TensorFlow • Machine Learning • Deep Learning
-
----
+Artificial Intelligence • TensorFlow • Machine Learning • Deep Learning
